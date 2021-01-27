@@ -50,3 +50,5 @@ blocks:
 promotions:
   - name: Start Integration tests
     pipeline_file: integration-tests.yml
+  - name: Promotion 2
+    pipeline_file: pipeline_3.yml
